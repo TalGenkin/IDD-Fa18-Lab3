@@ -11,6 +11,8 @@ The range is between around 670 to around 730
  
 **b. How many bits of resolution does the analog to digital converter (ADC) on the Arduino have?**
 
+According to the range of values, it seem the Arduino is using 10 bits (since the range of values is between 512 and 1024)
+
 ## Part B. RGB LED
 
 **How might you use this with only the parts in your kit? Show us your solution.**
