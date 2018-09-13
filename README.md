@@ -1,6 +1,6 @@
-# Data Logger (and using cool sensors!)
+# Data Logger - Lab 3
 
-*A lab report by John Q. Student.*
+*A lab report by Tal Genkin.*
 
 ## In The Report
 
