@@ -7,7 +7,7 @@
  
 **a. Based on the readings from the serial monitor, what is the range of the analog values being read?**
 
-The range is between around 670 to around 750
+The range is between around 670 to around 730
  
 **b. How many bits of resolution does the analog to digital converter (ADC) on the Arduino have?**
 
