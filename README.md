@@ -17,6 +17,8 @@ According to the range of values, it seem the Arduino is using 10 bits (since th
 
 **How might you use this with only the parts in your kit? Show us your solution.**
 
+![RGB LED](https://youtu.be/Ys_Ekg8ndvE)
+
 ## Part C. Voltage Varying Sensors 
  
 ### 1. FSR, Flex Sensor, Photo cell, Softpot
