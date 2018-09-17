@@ -25,7 +25,13 @@ According to the range of values, it seem the Arduino is using 10 bits (since th
 
 **a. What voltage values do you see from your force sensor?**
 
+The voltage changes in the values of around 720V to almost 800V. 
+
+[FSR](https://youtu.be/nyNDtQdpX3g)
+
 **b. What kind of relationship does the voltage have as a function of the force applied? (e.g., linear?)**
+
+The relationship looks like a Log / Ln function in the change in value of volts. 
 
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
 
