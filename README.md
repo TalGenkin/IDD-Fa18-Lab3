@@ -39,6 +39,8 @@ I need to change the maximum brightness (to 1023)
 
 [LED Fading](https://www.youtube.com/watch?v=8kaDEiu9KCs&feature=youtu.be)
 
+[LED Fading 2](https://youtu.be/fZZJy8SGqw0)
+
 **d. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?**
 
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
