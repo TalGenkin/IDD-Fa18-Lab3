@@ -35,7 +35,9 @@ The relationship looks like a Log / Ln function in the change in value of volts.
 
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
 
+I need to change the maximum brightness (brightness <=1023 instead of 255)
 
+[LED Fading](https://www.youtube.com/watch?v=8kaDEiu9KCs&feature=youtu.be)
 
 **d. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?**
 
