@@ -35,6 +35,8 @@ The relationship looks like a Log / Ln function in the change in value of volts.
 
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
 
+
+
 **d. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?**
 
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
