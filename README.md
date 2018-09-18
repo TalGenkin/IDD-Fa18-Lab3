@@ -35,7 +35,7 @@ The relationship looks like a Log / Ln function in the change in value of volts.
 
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
 
-I need to change the maximum brightness (brightness <=1023 instead of 255)
+I need to change the maximum brightness (to 1023)
 
 [LED Fading](https://www.youtube.com/watch?v=8kaDEiu9KCs&feature=youtu.be)
 
