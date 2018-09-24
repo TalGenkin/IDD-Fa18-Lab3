@@ -47,6 +47,8 @@ I need to change the maximum brightness (to 1023)
 
 For the flex sensor I used a resistor of 27K Ohm, with which I got voltage values of 150V - 550V approx.
 
+Without resistance - the voltage is 1023, with a 22k resistor, the votage is around 300. With a 5k resistor the voltage is 126V.
+
 
 
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
