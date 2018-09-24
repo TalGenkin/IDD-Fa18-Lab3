@@ -81,6 +81,8 @@ Adafruit_LIS3DH lis = Adafruit_LIS3DH();
 
 **a. Describe the voltage change over the sensing range of the sensor. A sketch of voltage vs. distance would work also. Does it match up with what you expect from the datasheet?**
 
+[Proximity sensor tested](https://youtu.be/LUwZHogVOM0)
+
 **b. Upload your merged code to your lab report repository and link to it here.**
 
 ## Optional. Graphic Display
