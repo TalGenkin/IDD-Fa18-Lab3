@@ -85,6 +85,8 @@ Adafruit_LIS3DH lis = Adafruit_LIS3DH();
 
 **b. Upload your merged code to your lab report repository and link to it here.**
 
+
+
 ## Optional. Graphic Display
 
 **Take a picture of your screen working insert it here!**
