@@ -53,7 +53,11 @@ With the Photo cell, with a 27k resistance, the voltage values are between 830 a
 With a 22k resistance, the values are between 800 and 930.
 With a 5k resistance, the values are between 500 and 760
 
+With the Soft pot, the values range between around 700V (although for a millisecond it goes to 0, if the reading is correct) up to 1023.
+
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
+
+The relationship is not linear, as we can see that, with the Photo cell for example, with a chenge in 4k ohm of resistance, it change the values in about 30V, about with another 17K Ohm (4 times as much) change in resistance, it changes the values in about 300V (10 times as much).
 
 ### 2. Accelerometer
  
