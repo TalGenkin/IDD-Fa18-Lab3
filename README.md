@@ -89,6 +89,8 @@ Adafruit_LIS3DH lis = Adafruit_LIS3DH();
 
 **Take a picture of your screen working insert it here!**
 
+![Screen working with Proximity sensor](ProximityTest.JPG)
+
 ## Part D. Logging values to the EEPROM and reading them back
  
 ### 1. Reading and writing values to the Arduino EEPROM
