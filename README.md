@@ -49,7 +49,9 @@ For the flex sensor I used a resistor of 27K Ohm, with which I got voltage value
 
 Without resistance - the voltage is 1023, with a 22k resistor, the votage is around 300. With a 5k resistor the voltage is 126V.
 
-
+With the Photo cell, with a 27k resistance, the voltage values are between 830 and 960. 
+With a 22k resistance, the values are between 800 and 930.
+With a 5k resistance, the values are between 500 and 760
 
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
 
