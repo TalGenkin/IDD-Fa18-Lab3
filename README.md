@@ -85,7 +85,7 @@ Adafruit_LIS3DH lis = Adafruit_LIS3DH();
 
 **b. Upload your merged code to your lab report repository and link to it here.**
 
-![Code from Arduino](acceldemo.ino)
+[Code from Arduino](acceldemo.ino)
 
 ## Optional. Graphic Display
 
