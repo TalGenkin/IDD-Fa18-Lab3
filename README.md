@@ -43,6 +43,12 @@ I need to change the maximum brightness (to 1023)
 
 **d. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?**
 
+[Felx sensor](https://youtu.be/xwesb1x9bPU)
+
+For the flex sensor I used a resistor of 27K Ohm, with which I got voltage values of 150V - 550V approx.
+
+
+
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
 
 ### 2. Accelerometer
